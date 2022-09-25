@@ -1,5 +1,5 @@
 
-first_name = 'Girisj'
+first_name = 'Girish'
 last_name = 'Prasanna'
 country = 'India'
 city = 'Chennai'
@@ -51,4 +51,5 @@ print('num_float', float(num_str))
 first_name = 'Girish'
 print(first_name)             
 first_name_to_list = list(first_name)
-print(first_name_to_list)           
+print(first_name_to_list)       
+    
