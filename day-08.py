@@ -61,7 +61,6 @@ while guess_count<guess_limit:
 else: print("You lost!")'''
 ## Car game
 started = False
-
 while True:
     command = input("> ").lower()
     if command == "start":
@@ -85,6 +84,7 @@ quit - to quit''')
         break
     else :
         print("Sorry I don't understand that")
+        
 prices = [10,20,30]
 sum = 0
 for i in prices:
